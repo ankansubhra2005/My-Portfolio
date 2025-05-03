@@ -1,3 +1,5 @@
+alert("it's made by Ankan Subhra Pramanik")
+
 document.addEventListener("DOMContentLoaded", () => {
     // Toggle menu icon and navbar
     const menuIcon = document.querySelector("#menu-icon");
